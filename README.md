@@ -148,10 +148,3 @@ lib/
 - Intégration avec un service d'authentification
 - Tests unitaires et d'intégration
 
-## 📝 Licence
-Ce projet est sous licence [MIT](LICENSE).
-
-## 🙏 Remerciements
-- [Flutter](https://flutter.dev/) - Le framework UI de Google
-- [BLoC Pattern](https://bloclibrary.dev/) - Gestion d'état prévisible
-- [Equatable](https://pub.dev/packages/equatable) - Pour des comparaisons d'objets simplifiées
